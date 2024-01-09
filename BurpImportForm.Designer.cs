@@ -62,7 +62,7 @@ namespace BurpTrafficImporter
             this.textBoxSourceFilePath.Name = "textBoxSourceFilePath";
             this.textBoxSourceFilePath.Size = new System.Drawing.Size(399, 20);
             this.textBoxSourceFilePath.TabIndex = 0;
-            this.textBoxSourceFilePath.TextChanged += new System.EventHandler(this.textBoxSourceFilePath_TextChanged);
+            //this.textBoxSourceFilePath.TextChanged += new System.EventHandler(this.textBoxSourceFilePath_TextChanged);
             // 
             // checkBoxUseFirstAsSTP
             // 
